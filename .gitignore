@@ -125,6 +125,5 @@ dmypy.json
 .pyre/
 
 # docker volumes
-docker/dags
-docker/logs
-docker/plugins
+docker/
+
